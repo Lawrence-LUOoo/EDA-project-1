@@ -2,7 +2,7 @@ name: Test MSDS621 bayes
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
